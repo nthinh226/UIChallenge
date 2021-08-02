@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UIChallenge</string>
+    <array name="countries">
+        <item>Viet Nam</item>
+        <item>Thai Lan</item>
+        <item>Trung Quoc</item>
+        <item>My</item>
+    </array>
+</resources>
